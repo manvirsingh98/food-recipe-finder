@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+  background: #fff;
+  font: 13px "Open Sans", sans-serif;
+  color: #222;
+}
+.form-control {
+  height: unset !important;
+}
+.card img {
+  height: 364px;
+  object-fit: cover;
+}
